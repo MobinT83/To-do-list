@@ -1,4 +1,4 @@
-# tmrin
+# todo list
 
 To install dependencies:
 
